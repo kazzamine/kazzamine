@@ -1,8 +1,5 @@
-
-
-<!--
-**kazzamine/kazzamine** is a ✨ _special_ ✨ repository because its `README.md` (this# 💫 About Me:
- I am a versatile full-stack developer with advanced expertise in database administration,and cloud computing.My goal is to provide innovative applications and optimized database systems to meet the specific needs of clients.
+#💫 About Me:
+ I am a versatile full-stack developer with advanced expertise in database administration .My goal is to provide innovative applications and optimized database systems to meet the specific needs of clients.
 
 
 ## 🌐 Socials:
@@ -28,4 +25,3 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kazzamine) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
